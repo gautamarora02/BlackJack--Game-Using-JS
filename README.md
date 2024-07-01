@@ -19,7 +19,8 @@ The code is developed mainly using JavaScript. HTML, CSS are also used.
 
 Below is the home page:
 
-![image](https://github.com/gautamarora02/BlackJack--Game-Using-JS/assets/166470847/9e70078a-831c-4f9e-8c1f-942421b503a4)
+![image](https://github.com/gautamarora02/BlackJack--Game-Using-JS/assets/166470847/7b2c45a1-0eb8-4e8e-bf65-178708af008b)
+
 
 To Start the game, we have to press Start Game:
 
